@@ -1,18 +1,18 @@
 # 🎨 Assistant Logistique de Poche — UI/UX Design
 
-Maquettes UI/UX d’une application mobile de gestion logistique destinée aux petits commerces et gestionnaires de stock.
+Maquettes UI/UX d'une application mobile de gestion logistique destinée aux petits commerces et gestionnaires de stock.
 
-Ce dépôt contient les interfaces utilisateur, les concepts visuels et l’expérience utilisateur du projet.
+Ce dépôt contient les interfaces utilisateur, les concepts visuels et l'expérience utilisateur du projet.
 
 ---
 
 # 📌 Objectif du projet
 
-L’objectif est de concevoir une application mobile simple et intuitive permettant :
+L'objectif est de concevoir une application mobile simple et intuitive permettant :
 
 - la gestion des stocks,
 - le suivi des ventes,
-- l’organisation logistique,
+- l'organisation logistique,
 - la consultation rapide des informations,
 - une expérience adaptée aux utilisateurs non techniques.
 
@@ -20,7 +20,7 @@ L’objectif est de concevoir une application mobile simple et intuitive permett
 
 # 🧠 Concept
 
-L’application vise à aider les commerçants à gérer leurs activités logistiques directement depuis leur téléphone grâce à une interface claire et rapide.
+L'application vise à aider les commerçants à gérer leurs activités logistiques directement depuis leur téléphone grâce à une interface claire et rapide.
 
 Le projet est actuellement en phase de conception UI/UX avant le développement technique.
 
@@ -116,4 +116,4 @@ Projet éducatif.
 
 Pour toute suggestion ou collaboration :
 
-- GitHub : https://github.com/marcelalle
+- GitHub : https://github.com/marcelalle-dev
